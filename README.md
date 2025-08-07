@@ -29,8 +29,7 @@ Tools: VS Code, Postman
 📦 How to Run Locally
 
 1)Clone the repo:
-git clone https://github.com/RohanAhmad3434/CodeAlpha_Simple_E-commerce_Store.git
-
+https://github.com/Priyanshusingh17/CodeAlpha_Simple_E-commerce_Store
 2)Navigate to backend and install dependencies:
 cd backend
 npm install
